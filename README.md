@@ -1,8 +1,33 @@
-### Hi there. I'm Mekzyy 👋
+# Hi, I'm Emeka 👋
 
-- 🔭 I’m a web developer with experience on complete DApp- solidity and react- Blockchain development...
-- 🌱 I’m currently learning software engineering @alx
-- 📫 How to reach me: @emekairegbu88@gmail.com
-- ⚡ Fun fact: I love mixed martial arts, I'm a big fan of listening to music while coding and i have a bachelors degree in medical laboratory sciences...
+Medical Laboratory Scientist transitioning into Cloud & DevOps Engineering.
 
-[![Mekzyy's github stats](https://github-readme-stats.vercel.app/api?username=Mekzyy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+I’m currently building hands-on projects focused on cloud infrastructure, containerization, and automation.
+
+## DevOps & Cloud Skills
+- Docker
+- AWS EC2
+- Git & GitHub
+- CI/CD with GitHub Actions
+- Linux (Ubuntu)
+
+## Featured Project
+
+### Dockerized Cloud Application
+A containerized Python Flask application deployed on AWS EC2.
+
+Technologies used:
+- Python
+- Flask
+- Docker
+- AWS EC2
+- GitHub Actions
+
+Project Link:
+https://github.com/Mekzyy/dockerized-cloud-app
+
+## Current Focus
+Learning more about:
+- Kubernetes
+- Infrastructure as Code
+- Advanced CI/CD pipelines
